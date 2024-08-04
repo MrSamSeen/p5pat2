@@ -6,7 +6,7 @@ let drawY = 0;
 let drawRed = 100;
 let drawGreen = 100;
 let drawBlue = 100;
-let drawStep = 1.2;
+let drawStep = 1.6;
 let pixelDensity = 40;
 function setup() {
   pixels = [];
